@@ -6,7 +6,7 @@ import Heaser from "../Header/Heaser";
 const Apple = () => {
     return (
         <div>
-          <div className="max-w-8xl max-auto bg-stone-800">
+          <div className="max-w-8xl max-auto bg-white-800 ">
           <Heaser></Heaser>
           <Outlet></Outlet>
           </div>

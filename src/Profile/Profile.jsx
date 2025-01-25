@@ -4,7 +4,7 @@ const Profile = () => {
     return (
         <div>
             <h1></h1>
-            <div className="hero bg-emerald-950 min-h-screen bg-[url('https://th.bing.com/th/id/OIP.Zl2ZafbKRI6QY0KTZjNDXQHaEJ?rs=1&pid=ImgDetMain')]">
+            <div className="hero bg-emerald-950 min-h-screen bg-[url('https://th.bing.com/th/id/OIP.Zl2ZafbKRI6QY0KTZjNDXQHaEJ?rs=1&pid=ImgDetMain')] ">
   <div className="hero-content flex-col lg:flex-row-reverse">
     <div className="text-center lg:text-left">
       <h1 className="text-5xl font-bold text-white">Login now!</h1>

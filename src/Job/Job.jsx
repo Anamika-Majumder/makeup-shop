@@ -11,7 +11,7 @@ const Job = ({job}) => {
               src="{logo}"
             alt="" />
         </figure>
-        <div className="card-body bg-green-800 transform hover:scale-110 transition duration-300 ease-in-out">
+        <div className="card-body bg-green-800  bg-animate transform hover:scale-110 transition duration-300 ease-in-out">
           <h2 className="card-title">{job_title}</h2>
           <p>{ company_name}</p>
           <div className=" justify-between">
