@@ -7,7 +7,7 @@ const Heaser = () => {
 <li className="p-2"><NavLink to='/'>Home</NavLink></li>
 <li className="p-2"><NavLink to='/Contact'>Contact</NavLink></li>
 <li className="p-2"><NavLink to='/Profile'>Profile</NavLink></li>
-<li className="p-2"><NavLink to='/ErrorPage'>ErrorPage</NavLink></li>
+
 
       
   

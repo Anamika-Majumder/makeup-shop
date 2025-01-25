@@ -11,7 +11,7 @@ import Apple from './Apple/Apple.jsx';
 import Home from './Home/Home.jsx';
 import Profile from './Profile/Profile.jsx';
 import Contact from './Contact/Contact.jsx';
-import ErrorPage from './ErrorPage/Errorpage.jsx';
+
 import Jobdetails from './Jobdetails/Jobdetails.jsx';
 
 
@@ -20,7 +20,7 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Apple></Apple>,
-    errorElement:<ErrorPage></ErrorPage>,
+    
  
     children: [
       {
